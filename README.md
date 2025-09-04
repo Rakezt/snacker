@@ -1,4 +1,6 @@
 # Snacker App
+ <img width="329" height="705" alt="image" src="https://github.com/user-attachments/assets/e987aeea-1626-403b-938a-9b62fa3c48b5" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/62d87b6e-9a02-453b-a557-927ffb48e895" />
 
 Snacker is a simple React app built with **Material UI** that allows users to keep track of items such as Tea, Cigarettes, Juices, Snacks, and others. Each item can be added with a price, updated in quantity, or removed entirely. The app also calculates the total cost dynamically.
 
