@@ -94,7 +94,7 @@ export const Snacker = () => {
       <AppBar position='static' sx={{ bgcolor: 'black' }}>
         <Toolbar>
           <Typography variant='h6' sx={{ flexGrow: 1, color: 'orange' }}>
-            Snacker
+            Snackerz
           </Typography>
           <Button
             variant='contained'
@@ -201,6 +201,7 @@ export const Snacker = () => {
             onChange={(e) => setSelectedItem(e.target.value)}
             sx={{ my: 2 }}
           >
+            <MenuItem value=''>Select Item</MenuItem>
             <MenuItem value='Tea'>Tea</MenuItem>
             <MenuItem value='Cigarette'>Cigarette</MenuItem>
             <MenuItem value='Juice'>Juice</MenuItem>
