@@ -1,70 +1,78 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Snacker App
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/bd630e14-4cd3-41f1-9f53-e4bc33a54501" />
+Snacker is a quirky little React app built with **Material UI** that makes your tea breaks smarter (and funnier). We all know how it goes — the more friends join, the more tea, the more cigarettes, the more snacks… and the more *utter confusion* when it’s time to pay. Why let the poor pan dukander play accountant when you’ve got **Snacker**?
 
-## Available Scripts
+With Snacker, you can:
 
-In the project directory, you can run:
+* Add tea, cigarettes, juices, snacks, and other guilty pleasures.
+* Assign prices and keep track of how much damage your break is doing to your wallet.
+* Update quantities when someone yells “One more chai!”
+* Automatically calculate the total (because math is boring).
+* Keep arguments short, sweet, and funny — “Snacker says YOU pay.”
 
-### `npm start`
+**No more confusion. No more finger-pointing. Just tea, snacks, and peace ✌️.**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
 
-### `npm test`
+* **React** (Frontend library)
+* **Material UI (MUI)** (UI components and styling)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone this repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```bash
+   git clone https://github.com/your-username/snacker.git
+   cd snacker
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install dependencies:
 
-### `npm run eject`
+   ```bash
+   npm install
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Start the development server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Open your browser at:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```
+   http://localhost:3000
+   ```
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Hit **Add** when the chai cravings strike.
+2. Select your item of choice (Tea, Cigarette, Water, Juices, or Other).
+3. Enter the price (be honest, don’t shortchange your dukander).
+4. Add it to the list and watch your snackathon grow.
+5. Use `+` and `-` buttons when your buddies want more or less.
+6. Remove items if someone “forgot their wallet.”
+7. Check the **Total** at the bottom to see who’s broke today.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Example Items
 
-### Analyzing the Bundle Size
+* Tea ☕
+* Cigarette 🚬
+* Water 💧
+* Juices 🧃
+* Other 🍪
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License.
