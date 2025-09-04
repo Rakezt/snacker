@@ -1,20 +1,17 @@
+
 # Snacker App
- <img width="329" height="705" alt="image" src="https://github.com/user-attachments/assets/e987aeea-1626-403b-938a-9b62fa3c48b5" />
-<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/62d87b6e-9a02-453b-a557-927ffb48e895" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/bd630e14-4cd3-41f1-9f53-e4bc33a54501" />
+Snacker is a quirky little React app built with **Material UI** that makes your tea breaks smarter (and funnier). We all know how it goes — the more friends join, the more tea, the more cigarettes, the more snacks… and the more *utter confusion* when it’s time to pay. Why let the poor pan dukander play accountant when you’ve got **Snacker**?
 
-Snacker is a simple React app built with **Material UI** that allows users to keep track of items such as Tea, Cigarettes, Juices, Snacks, and others. Each item can be added with a price, updated in quantity, or removed entirely. The app also calculates the total cost dynamically.
+With Snacker, you can:
 
----
+* Add tea, cigarettes, juices, snacks, and other guilty pleasures.
+* Assign prices and keep track of how much damage your break is doing to your wallet.
+* Update quantities when someone yells “One more chai!”
+* Automatically calculate the total (because math is boring).
+* Keep arguments short, sweet, and funny — “Snacker says YOU pay.”
 
-## Features
-
-* Add items with name and price.
-* Support for adding the same item multiple times with different prices.
-* Increase or decrease item quantities.
-* Automatically remove an item if quantity is reduced to zero.
-* Calculate and display the total cost of all items.
-* Responsive design optimized for mobile view.
-* Black background with orange as the secondary theme color.
+**No more confusion. No more finger-pointing. Just tea, snacks, and peace ✌️.**
 
 ---
 
@@ -56,23 +53,23 @@ Snacker is a simple React app built with **Material UI** that allows users to ke
 
 ## Usage
 
-1. Click on **Add** to open the item modal.
-2. Select an item from the dropdown list.
-3. Enter the price in rupees.
-4. Save the item to add it to the list.
-5. Use `+` and `-` buttons to update quantities.
-6. Use the **delete** button to remove items.
-7. View the running total at the bottom of the screen.
+1. Hit **Add** when the chai cravings strike.
+2. Select your item of choice (Tea, Cigarette, Water, Juices, or Other).
+3. Enter the price (be honest, don’t shortchange your dukander).
+4. Add it to the list and watch your snackathon grow.
+5. Use `+` and `-` buttons when your buddies want more or less.
+6. Remove items if someone “forgot their wallet.”
+7. Check the **Total** at the bottom to see who’s broke today.
 
 ---
 
 ## Example Items
 
-* Tea
-* Cigarette
-* Water
-* Juices
-* Other
+* Tea ☕
+* Cigarette 🚬
+* Water 💧
+* Juices 🧃
+* Other 🍪
 
 ---
 
