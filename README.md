@@ -1,15 +1,15 @@
-
 # Snacker App
+
 <img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/bd630e14-4cd3-41f1-9f53-e4bc33a54501" />
 Snacker is a quirky little React app built with **Material UI** that makes your tea breaks smarter (and funnier). We all know how it goes — the more friends join, the more tea, the more cigarettes, the more snacks… and the more *utter confusion* when it’s time to pay. Why let the poor pan dukander play accountant when you’ve got **Snacker**?
 
 With Snacker, you can:
 
-* Add tea, cigarettes, juices, snacks, and other guilty pleasures.
-* Assign prices and keep track of how much damage your break is doing to your wallet.
-* Update quantities when someone yells “One more chai!”
-* Automatically calculate the total (because math is boring).
-* Keep arguments short, sweet, and funny — “Snacker says YOU pay.”
+- Add tea, cigarettes, juices, snacks, and other guilty pleasures.
+- Assign prices and keep track of how much damage your break is doing to your wallet.
+- Update quantities when someone yells “One more chai!”
+- Automatically calculate the total (because math is boring).
+- Keep arguments short, sweet, and funny — “Snacker says YOU pay.”
 
 **No more confusion. No more finger-pointing. Just tea, snacks, and peace ✌️.**
 
@@ -17,8 +17,8 @@ With Snacker, you can:
 
 ## Tech Stack
 
-* **React** (Frontend library)
-* **Material UI (MUI)** (UI components and styling)
+- **React** (Frontend library)
+- **Material UI (MUI)** (UI components and styling)
 
 ---
 
@@ -65,14 +65,14 @@ With Snacker, you can:
 
 ## Example Items
 
-* Tea ☕
-* Cigarette 🚬
-* Water 💧
-* Juices 🧃
-* Other 🍪
+- Tea ☕
+- Cigarette 🚬
+- Water 💧
+- Juices 🧃
+- Other 🍪
 
 ---
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Yoursweetnightmare License.
